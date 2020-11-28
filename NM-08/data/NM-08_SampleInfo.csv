@@ -1,0 +1,93 @@
+Sample Name,SampleName2,Category,IDNumber,Tissue,WetWeight,Spike,Replicate,Extraction,DryTemp,Volume,Timepoint,Treatment,Trial
+NADmetA_10_new,NADmetA,Standard,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NADmetB_10_new,NADmetB,Standard,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NR_NAR_5,NR_NAR,Standard,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NH4OAc_blank_1,nh4oac blank,Blank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NH4OAc_blank_2,nh4oac blank,Blank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NH4OAc_blank_2a,nh4oac blank,Blank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NH4OAc_blank_3,nh4oac blank,Blank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NM-08_C1,T_nospk,Recov_cont,258288,T,22.3,N,1,MeOH,30C,80,NA,NA,NA
+NM-08_C2,T_spk_L,Recov_cont,258288,T,20.7,L_R1,1,MeOH,30C,80,NA,NA,NA
+NM-08_C3,T_spk_H,Recov_cont,258288,T,20.8,H,1,MeOH,30C,80,NA,NA,NA
+NM-08_C4,T_spk_L,Recov_cont,258288,T,21.4,L_R2,2,MeOH,30C,80,NA,NA,NA
+NM-08_C5,T_nospk,Recov_cont,258289,T,22,N,2,MeOH,30C,80,NA,NA,NA
+NM-08_C6,T_spk_H,Recov_cont,258289,T,22.2,H,2,MeOH,30C,80,NA,NA,NA
+NM-08_cont_pool_1,mouse_pool,Pool,NA,T,NA,N,NA,MeOH,30C,80,NA,NA,NA
+NM-08_cont_pool_2,mouse_pool,Pool,NA,T,NA,N,NA,MeOH,30C,80,NA,NA,NA
+NM-08_cont_pool_3,mouse_pool,Pool,NA,T,NA,N,NA,MeOH,30C,80,NA,NA,NA
+NM-08_cont_pool_4,mouse_pool,Pool,NA,T,NA,N,NA,MeOH,30C,80,NA,NA,NA
+NM-08_extract_blank,extract_blank,Blank,NA,NA,NA,NA,NA,MeOH,30C,80,NA,NA,NA
+NM-08_human_pool_1,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_human_pool_2,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_human_pool_4,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_human_pool_5,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_human_pool_6,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_human_pool_7,human_pool,Pool,NA,Skm,NA,N,NA,MeOH,30C,80,O,NA,NA
+NM-08_std_high_1,std_high,Standard,NA,NA,NA,H,NA,MeOH,30C,80,NA,NA,NA
+NM-08_std_high_2,std_high,Standard,NA,NA,NA,H,NA,MeOH,30C,80,NA,NA,NA
+NM-08_std_low_1,std_low,Standard,NA,NA,NA,L,NA,MeOH,30C,80,NA,NA,NA
+NM-08_std_low_2,std_low,Standard,NA,NA,NA,L,NA,MeOH,30C,80,NA,NA,NA
+NM-08_NR_Aex_1,NR,Sample,A03,Skm,22.5,NA,NA,MeOH,30C,80,O,NR,V4
+NM-08_NR_Aex_2,NR,Sample,A07,Skm,21.9,NA,NA,MeOH,30C,80,pre,NR,V3
+NM-08_NR_Aex_3,NR,Sample,A05,Skm,20.9,NA,NA,MeOH,30C,80,post,NR,V5
+NM-08_NR_Aex_4,NR,Sample,A05,Skm,20.8,NA,NA,MeOH,30C,80,3h post,NR,V5
+NM-08_NR_Aex_5,Placebo,Sample,A09,Skm,23.9,NA,NA,MeOH,30C,80,pre,Placebo,V5
+NM-08_NR_Aex_6,Placebo,Sample,A02,Skm,20.9,NA,NA,MeOH,30C,80,3h post,Placebo,V3
+NM-08_NR_Aex_7,Placebo,Sample,A09,Skm,23.1,NA,NA,MeOH,30C,80,3h post,Placebo,V5
+NM-08_NR_Aex_8,NR,Sample,A04,Skm,22.2,NA,NA,MeOH,30C,80,3h post,NR,V5
+NM-08_NR_Aex_9,NR,Sample,A04,Skm,21.3,NA,NA,MeOH,30C,80,O,NR,V4
+NM-08_NR_Aex_10,Placebo,Sample,A07,Skm,24.8,NA,NA,MeOH,30C,80,O,Placebo,V4
+NM-08_NR_Aex_11,NR,Sample,A07,Skm,20.6,NA,NA,MeOH,30C,80,3h post,NR,V3
+NM-08_NR_Aex_12,NR,Sample,A09,Skm,21.6,NA,NA,MeOH,30C,80,O,NR,V2
+NM-08_NR_Aex_13,Placebo,Sample,A01,Skm,22.3,NA,NA,MeOH,30C,80,3h post,Placebo,V5
+NM-08_NR_Aex_14,NR,Sample,A03,Skm,21.5,NA,NA,MeOH,30C,80,pre,NR,V5
+NM-08_NR_Aex_15,Placebo,Sample,A04,Skm,22.2,NA,NA,MeOH,30C,80,post,Placebo,V3
+NM-08_NR_Aex_16,Placebo,Sample,A09,Skm,22.1,NA,NA,MeOH,30C,80,O,Placebo,V4
+NM-08_NR_Aex_17,Placebo,Sample,A03,Skm,23.3,NA,NA,MeOH,30C,80,post,Placebo,V3
+NM-08_NR_Aex_18,Placebo,Sample,A04,Skm,21,NA,NA,MeOH,30C,80,O,Placebo,V2
+NM-08_NR_Aex_19,Placebo,Sample,A06,Skm,22.3,NA,NA,MeOH,30C,80,post,Placebo,V5
+NM-08_NR_Aex_20,NR,Sample,A01,Skm,22.2,NA,NA,MeOH,30C,80,O,NR,V2
+NM-08_NR_Aex_21,Placebo,Sample,A02,Skm,21.9,NA,NA,MeOH,30C,80,O,Placebo,V2
+NM-08_NR_Aex_22,Placebo,Sample,A06,Skm,22.2,NA,NA,MeOH,30C,80,pre,Placebo,V5
+NM-08_NR_Aex_23,NR,Sample,A06,Skm,21.2,NA,NA,MeOH,30C,80,O,NR,V2
+NM-08_NR_Aex_24,Placebo,Sample,A03,Skm,24,NA,NA,MeOH,30C,80,O,Placebo,V2
+NM-08_NR_Aex_25,Placebo,Sample,A06,Skm,22.3,NA,NA,MeOH,30C,80,O,Placebo,V4
+NM-08_NR_Aex_26,Placebo,Sample,A01,Skm,22,NA,NA,MeOH,30C,80,pre,Placebo,V5
+NM-08_NR_Aex_27,NR,Sample,A02,Skm,22.6,NA,NA,MeOH,30C,80,pre,NR,V5
+NM-08_NR_Aex_28,Placebo,Sample,A05,Skm,22.8,NA,NA,MeOH,30C,80,3h post,Placebo,V3
+NM-08_NR_Aex_29,Placebo,Sample,A05,Skm,23.7,NA,NA,MeOH,30C,80,post,Placebo,V3
+NM-08_NR_Aex_30,Placebo,Sample,A05,Skm,22.8,NA,NA,MeOH,30C,80,pre,Placebo,V3
+NM-08_NR_Aex_31,Placebo,Sample,A06,Skm,23.8,NA,NA,MeOH,30C,80,3h post,Placebo,V5
+NM-08_NR_Aex_32,Placebo,Sample,A02,Skm,22.7,NA,NA,MeOH,30C,80,post,Placebo,V3
+NM-08_NR_Aex_33,NR,Sample,A05,Skm,20.6,NA,NA,MeOH,30C,80,pre,NR,V5
+NM-08_NR_Aex_34,NR,Sample,A07,Skm,20.8,NA,NA,MeOH,30C,80,post,NR,V3
+NM-08_NR_Aex_35,Placebo,Sample,A05,Skm,21.8,NA,NA,MeOH,30C,80,O,Placebo,V2
+NM-08_NR_Aex_36,Placebo,Sample,A04,Skm,20.6,NA,NA,MeOH,30C,80,3h post,Placebo,V3
+NM-08_NR_Aex_37,Placebo,Sample,A03,Skm,21.8,NA,NA,MeOH,30C,80,pre,Placebo,V3
+NM-08_NR_Aex_38,Placebo,Sample,A07,Skm,23.2,NA,NA,MeOH,30C,80,pre,Placebo,V5
+NM-08_NR_Aex_39,NR,Sample,A02,Skm,21.6,NA,NA,MeOH,30C,80,3h post,NR,V5
+NM-08_NR_Aex_40,NR,Sample,A03,Skm,23.5,NA,NA,MeOH,30C,80,post,NR,V5
+NM-08_NR_Aex_41,NR,Sample,A04,Skm,21.7,NA,NA,MeOH,30C,80,post,NR,V5
+NM-08_NR_Aex_42,Placebo,Sample,A04,Skm,20.3,NA,NA,MeOH,30C,80,pre,Placebo,V3
+NM-08_NR_Aex_43,Placebo,Sample,A07,Skm,20.9,NA,NA,MeOH,30C,80,3h post,Placebo,V5
+NM-08_NR_Aex_44,NR,Sample,A05,Skm,20.1,NA,NA,MeOH,30C,80,O,NR,V4
+NM-08_NR_Aex_45,Placebo,Sample,A03,Skm,20.5,NA,NA,MeOH,30C,80,3h post,Placebo,V3
+NM-08_NR_Aex_46,NR,Sample,A04,Skm,21.4,NA,NA,MeOH,30C,80,pre,NR,V5
+NM-08_NR_Aex_47,NR,Sample,A01,Skm,21.7,NA,NA,MeOH,30C,80,pre,NR,V3
+NM-08_NR_Aex_48,NR,Sample,A09,Skm,20.7,NA,NA,MeOH,30C,80,3h post,NR,V3
+NM-08_NR_Aex_49,NR,Sample,A07,Skm,21.2,NA,NA,MeOH,30C,80,O,NR,V2
+NM-08_NR_Aex_50,Placebo,Sample,A01,Skm,21.9,NA,NA,MeOH,30C,80,O,Placebo,V4
+NM-08_NR_Aex_51,NR,Sample,A02,Skm,22.5,NA,NA,MeOH,30C,80,post,NR,V5
+NM-08_NR_Aex_52,NR,Sample,A09,Skm,21,NA,NA,MeOH,30C,80,post,NR,V3
+NM-08_NR_Aex_53,NR,Sample,A01,Skm,22.3,NA,NA,MeOH,30C,80,3h post,NR,V3
+NM-08_NR_Aex_54,NR,Sample,A09,Skm,21.7,NA,NA,MeOH,30C,80,pre,NR,V3
+NM-08_NR_Aex_55,NR,Sample,A01,Skm,21.3,NA,NA,MeOH,30C,80,post,NR,V3
+NM-08_NR_Aex_56,NR,Sample,A06,Skm,20.3,NA,NA,MeOH,30C,80,3h post,NR,V3
+NM-08_NR_Aex_57,Placebo,Sample,A07,Skm,20.2,NA,NA,MeOH,30C,80,post,Placebo,V5
+NM-08_NR_Aex_58,NR,Sample,A03,Skm,20.5,NA,NA,MeOH,30C,80,3h post,NR,V5
+NM-08_NR_Aex_59,Placebo,Sample,A02,Skm,21.4,NA,NA,MeOH,30C,80,pre,Placebo,V3
+NM-08_NR_Aex_60,NR,Sample,A02,Skm,21.2,NA,NA,MeOH,30C,80,O,NR,V4
+NM-08_NR_Aex_61,NR,Sample,A06,Skm,22.8,NA,NA,MeOH,30C,80,pre,NR,V3
+NM-08_NR_Aex_62,Placebo,Sample,A01,Skm,21.4,NA,NA,MeOH,30C,80,post,Placebo,V5
+NM-08_NR_Aex_63,Placebo,Sample,A09,Skm,22.6,NA,NA,MeOH,30C,80,post,Placebo,V5
+NM-08_NR_Aex_64,NR,Sample,A06,Skm,22.8,NA,NA,MeOH,30C,80,post,NR,V3

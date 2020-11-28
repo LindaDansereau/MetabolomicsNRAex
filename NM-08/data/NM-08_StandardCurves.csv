@@ -1,0 +1,16 @@
+StandardCurve,Metabolite,Component Name,slope,intercept,r,weighted,comments
+NADmetA,NMN,NMN1,1919.71908,0,0.99591,Y,remove 10 and 20 uM
+NR_NAR,NR,NR1,2171.65516,0,0.99364,N,"0.025 - 5 uM; remove 1, 2.5 uM"
+NADmetA,NaAD,NaAD_0_0,635.3315531,0,0.9932,Y,remove 10 and 20 uM
+NADmetA,NA,NA_0_0,8099.50629,0,0.99862,Y,remove 20 uM
+NADmetA,NADH,NADH_B,148.82813,0,0.99521,Y,remove 10 and 20 uM
+NADmetA,Me2Py,Me2Py,20601.93781,0,0.99846,Y,remove 20 uM
+NADmetB,NADPH,NADPH,84.67609,0,0.99505,Y,"remove 0.025, 2.5, 10 and 20 uM"
+NADmetC,NADP,NADP1_neg,204.32775,0,0.99406,Y,remove 10 and 20 uM
+NR_NAR,NaR,NaR_0_0,3347.63239,0,0.99377,N,"0.025 - 5 uM; remove 1, 2.5 uM"
+NADmetC,NaMN,NAMN1,3631.24059,0,0.99723,Y,remove 20 uM
+NADmetC,NAM,NAM1,2.50E+04,0,0.99647,Y,"remove 0.05, 0.1, 0.2, 1 uM"
+NADmetC,NAD,NAD1,786.5314993,0,0.9978,Y,remove 20 uM (Prism outlier)
+NADmetC,Me4Py,Me4Py,7.19E+04,0,0.99904,Y,remove 20 uM
+NADmetC,ADPr,ADPr1,513.83653,0,0.99456,Y,remove 10 and 20 uM
+NADmetC,MeNAM,MeNAM1,3.93E+05,0,0.99872,Y,"remove 0.25, 0.5, 1, 2 uM"

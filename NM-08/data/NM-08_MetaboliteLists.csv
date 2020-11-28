@@ -1,0 +1,16 @@
+Component Name,used_met,UsedMet_level,Keep_spike,other_met,other_met_level,UsedMetRec_level
+NaR_0_0,Y,vlow,Y,Y,vlow,vlow
+NaAD_0_0,Y,high,Y,Y,med,high
+NA_0_0,Y,vlow,Y,Y,vlow,vlow
+NADH_B,N,NA,N,Y,med,NA
+NADPH,N,NA,N,Y,low,NA
+Me2Py,Y,med,Y,Y,high,med
+Me4Py,Y,med,Y,Y,high,med
+ADPr1,Y,top,Y,Y,med,top
+NAM1,Y,top,Y,Y,top,top
+NMN1,Y,low,Y,Y,low,low
+NR1,Y,low,Y,Y,vlow,low
+NAD1,Y,high,Y,Y,high,high
+NAMN1,Y,vlow,Y,Y,low,vlow
+MeNAM1,Y,vlow,Y,Y,high,vlow
+NADP1_neg,Y,high,Y,Y,low,high
